@@ -3,7 +3,7 @@
 #include <ArduinoIoTCloud.h>
 #include <Arduino_ConnectionHandler.h>
 
-const char SSID[]     = "capt_ph03nix";    // Network SSID (name)
+const char SSID[]     = "ssid";    // Network SSID (name)
 const char PASS[]     = "password";    // Network password (use for WPA, or use as key for WEP)
 
 
